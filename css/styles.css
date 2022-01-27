@@ -118,15 +118,11 @@ body {
     margin: 0 2rem 1.3rem;
     box-shadow: 1px 10px 35px 0px  rgb(56, 41, 224, 0.4);
     transition: 0.2s ease-in all;
-}
-
-.order_payment a {
-    display: inline-block;
-    width: 100%;
     color: white;
     text-decoration: none;
     font-weight: 700;
     padding: 1.0rem 0;
+    cursor: pointer;
 }
 
 .order_payment:hover {
